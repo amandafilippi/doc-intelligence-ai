@@ -37,4 +37,3 @@ Aplicação web desenvolvida em Python e Streamlit para análise automatizada de
 5. **Inicie a aplicação:**
    ```bash
    streamlit run app.py
-´´´
