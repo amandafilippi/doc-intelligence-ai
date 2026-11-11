@@ -19,24 +19,20 @@ Aplicação web desenvolvida em Python e Streamlit para análise automatizada de
    ```bash
    git clone https://github.com/amandafilippi/doc-intelligence-ai.git
    cd doc-intelligence-ai
-´´´
 
 2. **Crie e ative o ambiente virtual:**
    ```bash
    python -m venv venv
    .\venv\Scripts\activate
-´´´
 
 3. **Instale as dependências:**
    ```bash
    pip install -r requirements.txt
-´´´
 
 4. **Configure a variável de ambiente:**
    Crie um ficheiro `.env` na raiz do projeto e adicione a sua chave:
    ```env
    GEMINI_API_KEY=sua_chave_aqui
-´´´´
 
 5. **Inicie a aplicação:**
    ```bash
